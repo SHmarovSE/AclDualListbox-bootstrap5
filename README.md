@@ -30,7 +30,7 @@
 
 ```html
 <!-- Подключение JavaScript-модуля компонента -->
-<script src="https://cdn.jsdelivr.net/gh/SHmarovSE/AclDualListbox-bootstrap5@latest/AclDualListbox.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/SHmarovSE/AclDualListbox-bootstrap5@latest/AclDualListbox.js"  type="module"></script>
 ```
 
 ---
